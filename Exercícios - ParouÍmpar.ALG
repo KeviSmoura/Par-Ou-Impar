@@ -3,14 +3,13 @@ Algoritmo "ParOuimpar"
 Var
    N: Inteiro
 
-
 Inicio
-     Escreva ("Digite um número qualquer: ")
+     Escreva ("Digite um nÃºmero qualquer: ")
      Leia (N)
    Se (N % 2) = 0 entao
-     EscrevaL ("O número ", N, " é par")
-   Senão (N % 2 ) = 1 entao
-     EscrevaL ("O número ", N, " é ímpar")
+     EscrevaL ("O nÃºmero ", N, " Ã© par")
+   SenÃ£o (N % 2 ) = 1 entao
+     EscrevaL ("O nÃºmero ", N, " Ã© Ã­mpar")
      
    Fimse
      
